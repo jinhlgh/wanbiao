@@ -1,0 +1,538 @@
+[
+    {
+        "nav": [
+            {
+                "title": "首页"
+            },
+            {
+                "title": "选表中心"
+            },
+            {
+                "title": "品牌馆"
+            },
+            {
+                "title": "闪购"
+            },
+            {
+                "title": "线下体验"
+            },
+            {
+                "title": "名匠维修"
+            },
+            {
+                "title": "会员福利"
+            },
+            {
+                "title": "钟表文化"
+            }
+        ]
+    },
+    {
+        "title": "顶级品牌",
+        "smalltitle": "伯爵",
+        "smalltitle2": "积家",
+        "smalltitle3": "江诗丹顿",
+        "subtitle": [
+            {
+                "title": "伯爵",
+                "img": "images/d74eef61ef8547f598ae8c4f95d6e2d2.png"
+            },
+            {
+                "title": "积家",
+                "img": "images/f1b4ad1464624a66aff7ae53a19a35f1.png"
+            },
+            {
+                "title": "江诗丹顿",
+                "img": "images/9a2f2a4efd5241b782e7608ae685b1f3.png"
+            },
+            {
+                "title": "亨利慕时",
+                "img": "images/79eac5e517a444c793bb0ee587f54d1d.png"
+            },
+            {
+                "title": "宝玑",
+                "img": "images/05a5905eb5be467097d0445709730efd.png"
+            },
+            {
+                "title": "宝珀",
+                "img": "images/899ae9043d6445c9b0c1af73f6e4f289.png"
+            },
+            {
+                "title": "柏高",
+                "img": "images/b96cdb47e8424409958d002be4193f47.png"
+            },
+            {
+                "title": "朗格",
+                "img": "images/3e1520edaf554748b66462098edca841.png"
+            }
+        ]
+    },
+    {
+        "recommend": [
+            {
+                "title": "百达翡丽 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; "
+            },
+            {
+                "title": "格拉苏蒂·原创 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; "
+            },
+            {
+                "title": "爱彼 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; "
+            },
+            {
+                "title": "雅克德罗 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; "
+            },
+            {
+                "title": "芝柏 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; "
+            },
+            {
+                "title": "宇舶 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; "
+            },
+            {
+                "title": "雅典 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; "
+            },
+            {
+                "title": "法穆兰 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; "
+            },
+            {
+                "title": "豪朗时 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp"
+            }
+        ]
+    },
+    {
+        "title": "奢华品牌",
+        "subtitle": [
+            {
+                "title": "欧米茄",
+                "img": "images/fac6eb09bfcb4c11b04c171a7db43130.png"
+            },
+            {
+                "title": "万国",
+                "img": "images/c9c29109cfff40da9e6ad2d385d92858.png"
+            },
+            {
+                "title": "库尔沃",
+                "img": "images/22800bb6c0994ce49f935de4660a2d76.png"
+            },
+            {
+                "title": "劳力士",
+                "img": "images/06bdf8720eaf4cd290a77918065a33b1.png"
+            },
+            {
+                "title": "莫勒",
+                "img": "images/aa4c509822114a23bbcc0b91bfa3e6f8.png"
+            },
+            {
+                "title": "卡地亚",
+                "img": "images/90d4017a456e4efd9b4b7693a56ec666.png"
+            },
+            {
+                "title": "帝驼",
+                "img": "images/1777b27294844f9aabe9a2551047074d.png"
+            },
+            {
+                "title": "艾美达",
+                "img": "images/88b3307db53948198dd306d0f31ae966.png"
+            }
+        ]
+    },
+    {
+        "recommend": [
+            {
+                "title": "泰格豪雅 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; "
+            },
+            {
+                "title": "诺美纳 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; "
+            },
+            {
+                "title": "沛纳海 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; "
+            },
+            {
+                "title": "百年灵 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; "
+            },
+            {
+                "title": "世纪 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; "
+            },
+            {
+                "title": "瑞宝 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; "
+            },
+            {
+                "title": "依百克 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; "
+            },
+            {
+                "title": "艾美 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; "
+            },
+            {
+                "title": "真力时 &nbsp;&nbsp;&nbsp &nbsp;&nbsp;&nbsp"
+            },
+            {
+                "title": "萧邦 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; "
+            },
+            {
+                "title": "昆仑 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; "
+            },
+            {
+                "title": "宝格丽 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; "
+            },
+            {
+                "title": "万宝龙 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; "
+            },
+            {
+                "title": "宝齐莱 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; "
+            },
+            {
+                "title": "豪利时 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; "
+            }
+        ]
+    },
+    {
+        "title": "轻奢品牌",
+        "subtitle": [
+            {
+                "title": "天梭",
+                "img": "images/f699e10a8c6143289fcec65a73d0d0cf.png"
+            },
+            {
+                "title": "浪琴",
+                "img": "images/9f51632b0c1a4847bfafd1503ad49f97.png"
+            },
+            {
+                "title": "爱宝时",
+                "img": "images/f434618818514cd48b8252d29ff4be23.png"
+            },
+            {
+                "title": "美度",
+                "img": "images/59a6d749cac84717bafa899ec6c47b28.png"
+            },
+            {
+                "title": "迪沃斯",
+                "img": "images/aae330b2876d4f6eac613a091aa6e9b4.png"
+            },
+            {
+                "title": "汉米尔顿",
+                "img": "images/43378712c58d43d2b1839b2b8ffc2c6a.png"
+            },
+            {
+                "title": "赫伯林",
+                "img": "images/8050f1ed300f45abba92cc83e09c664e.png"
+            },
+            {
+                "title": "康斯登",
+                "img": "images/7e5b206d05164ddead507fe0686465de.png"
+            }
+        ]
+    },
+    {
+        "recommend": [
+            {
+                "title": "西铁城 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; "
+            },
+            {
+                "title": "爱罗 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; "
+            },
+            {
+                "title": "菲拉格慕 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; "
+            },
+            {
+                "title": "名士 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; "
+            },
+            {
+                "title": "摩凡陀 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; "
+            },
+            {
+                "title": "摩纹 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; "
+            },
+            {
+                "title": "格莱士 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; "
+            },
+            {
+                "title": "雷达 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; "
+            },
+            {
+                "title": "雪铁纳 &nbsp;&nbsp;&nbsp &nbsp;&nbsp;&nbsp"
+            },
+            {
+                "title": "豪度 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; "
+            },
+            {
+                "title": "梅花 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; "
+            },
+            {
+                "title": "荣汉斯 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; "
+            },
+            {
+                "title": "依波路 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; "
+            },
+            {
+                "title": "雍加毕索 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; "
+            },
+            {
+                "title": "优立时 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; "
+            },
+            {
+                "title": "瑞士军表 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; "
+            },
+            {
+                "title": "天铭 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; "
+            },
+            {
+                "title": "罗马 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; "
+            },
+            {
+                "title": "劳特莱 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp"
+            },
+            {
+                "title": "绮年华 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; "
+            },
+            {
+                "title": "特工 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; "
+            },
+            {
+                "title": "雷蒙威 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; "
+            },
+            {
+                "title": "Alpha &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; "
+            },
+            {
+                "title": "PILO & CO GENEVE &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; "
+            },
+            {
+                "title": "DVH &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; "
+            },
+            {
+                "title": "哈伯曼 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; "
+            },
+            {
+                "title": "爱马仕 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; "
+            },
+            {
+                "title": "英纳格 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; "
+            }
+        ]
+    },
+    {
+        "title": "时尚潮牌",
+        "subtitle": [
+            {
+                "title": "卡西欧",
+                "img": "images/510e84ea78cc48ecaa26c5b53042ae90.png"
+            },
+            {
+                "title": "东方双狮",
+                "img": "images/5d547625e4fb4c2686ad86d6d9bb0a3f.png"
+            },
+            {
+                "title": "ck",
+                "img": "images/6e0e62da87294596910ab21ccbd97b13.png"
+            },
+            {
+                "title": "精工",
+                "img": "images/031e95219f3e4bd89e712b15ff53ce63.png"
+            },
+            {
+                "title": "阿玛尼",
+                "img": "images/bb487bec40564daea320f3bc18f62960.png"
+            },
+            {
+                "title": "雅克利曼",
+                "img": "images/e0c66f82cd0143e2a8964382fff6dd76.png"
+            },
+            {
+                "title": "驰客",
+                "img": "images/89dc818263984a14acb85488192e3d7a.png"
+            },
+            {
+                "title": "MINI",
+                "img": "images/6fb87e715861402e9adbd0197d0e3604.png"
+            }
+        ]
+    },
+    {
+        "recommend": [
+            {
+                "title": "sevenFriday &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; "
+            },
+            {
+                "title": "法斯蒂纳 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; "
+            },
+            {
+                "title": "GUCCI &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; "
+            },
+            {
+                "title": "CIGA DESIGN &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; "
+            },
+            {
+                "title": "雅柏 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; "
+            },
+            {
+                "title": "斯沃琪 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; "
+            },
+            {
+                "title": "名爵 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; "
+            },
+            {
+                "title": "马克·雅可布 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; "
+            },
+            {
+                "title": "萨克莱斯 &nbsp;&nbsp;&nbsp &nbsp;&nbsp;&nbsp"
+            },
+            {
+                "title": "罗蒂诗蔓 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; "
+            },
+            {
+                "title": "dufa &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; "
+            },
+            {
+                "title": "诺帝卡 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; "
+            },
+            {
+                "title": "jeep &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; "
+            },
+            {
+                "title": "AVI-8 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; "
+            },
+            {
+                "title": "雷米格 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; "
+            },
+            {
+                "title": "玛莎拉蒂 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; "
+            },
+            {
+                "title": "天美时 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; "
+            },
+            {
+                "title": "三宅一生 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; "
+            },
+            {
+                "title": "唯路可 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp"
+            }
+        ]
+    },
+    {
+        "title": "智能 国产",
+        "subtitle": [
+            {
+                "title": "飞亚达",
+                "img": "images/9ae43f735ae24f94b1f90411f477f635.png"
+            },
+            {
+                "title": "上海",
+                "img": "images/1617cf49f86e461e8c1f02063e6c4871.png"
+            },
+            {
+                "title": "华为",
+                "img": "images/13b401de6ebb4c05bf8cda3d6ae48cad.png"
+            },
+            {
+                "title": "颂拓",
+                "img": "images/f96db5d576e541a1a624a19ff555123c.png"
+            },
+            {
+                "title": "佳明",
+                "img": "images/407b9eda36d74837943a037f672f1c03.png"
+            },
+            {
+                "title": "海鸥",
+                "img": "images/9da65e5469ba498cbe1eb805f17da3f1.png"
+            },
+            {
+                "title": "SWISS MILITARY HANOWA",
+                "img": "images/b5223848dee14ed68c562b193837ce9f.png"
+            },
+            {
+                "title": "山城",
+                "img": "images/c9510f8134a545dd9370e366b37725b3.png"
+            }
+        ]
+    },
+    {
+        "recommend": [
+            {
+                "title": "孔雀 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; "
+            },
+            {
+                "title": "华唛 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; "
+            },
+            {
+                "title": "尖刀 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; "
+            },
+            {
+                "title": "廊桥表 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; "
+            },
+            {
+                "title": "脉珂 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; "
+            }
+        ]
+    },
+    {
+        "subtitle": [
+            {
+                "title": "积优",
+                "img": "images/b961069547e84e0d862b50f28e93249f.png"
+            },
+            {
+                "title": "奇美拉",
+                "img": "images/25b0867f1f17461eb995df20190854aa.png"
+            },
+            {
+                "title": "欧时浩",
+                "img": "images/ef8de06d443a481191bc5277ec382601.png"
+            },
+            {
+                "title": "海奕施",
+                "img": "images/c8265c64f19f46258069d409d10c4839.png"
+            },
+            {
+                "title": "赫柏林",
+                "img": "images/c26c749517c74114a2b8fabd15e07b42.png"
+            },
+            {
+                "title": "迪沃斯",
+                "img": "images/aae330b2876d4f6eac613a091aa6e9b4.png"
+            }
+        ]
+    },
+    {
+        "goods": [
+            {
+                "img": "images/201708_31_3130_1FA_70128.jpg",
+                "title": "【412手表节爆款】库尔沃火焰纹款 拥有拉丁血统的瑞士腕表品牌：瑞士库尔沃CYS-Historiador 历史学家系列 古董手绘火焰纹款 3130.1FA 超薄机械男表",
+                "price": "￥17225"
+            },
+            {
+                "img": "images/201407_04_M1_11_15_LB_76423.jpg",
+                "title": "真力时Zenith-ELPRIMERO系列 03.2040.4061/69.C496 机械男表",
+                "price": "￥55120"
+            },
+            {
+                "img": "images/201605_24_L2_628_4_78_3_68248.jpg",
+                "title": "浪琴longines-名匠系列 L2.628.4.78.3 机械男表",
+                "price": "￥12000"
+            },
+            {
+                "img": "images/201211_23_14171_61614.jpg",
+                "title": "【412手表节爆款】汉米尔顿Hamilton-爵士系列  开心 H32565555 机械男表",
+                "price": "￥5210"
+            },
+            {
+                "img": "images/201405_04_03_2040_4061_69_C496_77934.jpg",
+                "title": "【412手表节限时特惠-限量编号076】格拉苏蒂·莫勒 Muehle·Glashuette周年纪念特别限量版-罗伯特·莫勒 M1-11-15-LB 自产手卷机芯动储版（已绝版）",
+                "price": "￥34155"
+            },
+            {
+                "img": "images/201611_24_30635_000P-9842_04801.jpg",
+                "title": "江诗丹顿Vacheron Constantin-马耳他系列 30635/000P-9842 陀飞轮手动机械表",
+                "price": "￥1,929,840"
+            },
+            {
+                "img": "images/201510_16_IW371480_86990.jpg",
+                "title": "万国IWC-柏涛菲诺 IW458103 中性机械表",
+                "price": "￥63,580"
+            },
+            {
+                "img": "images/201606_03_IW458103_52408.jpg",
+                "title": "万国IWC-葡萄牙系列 IW371480 机械男表",
+                "price": "￥100,300"
+            }
+        ]
+    }
+]
